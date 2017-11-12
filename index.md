@@ -1,6 +1,8 @@
 ---
 layout: home
 title: Antonio Trento
+img: assets/images/fulls/my-buddy-birba.jpg
+image: assets/images/fulls/my-buddy-birba.jpg
 ---
 
 <!-- Thumbnail -->

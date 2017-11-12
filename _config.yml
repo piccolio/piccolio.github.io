@@ -5,6 +5,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://piccolio.github.io" # the base hostname & protocol for your site
 author:
 
+plugins:
+  - jekyll-seo-tag
+
 # Collection settings
 collections:
   photos:
@@ -12,7 +15,7 @@ collections:
 # Social settings
 500px_url:
 facebook_url: https://facebook.com/lantoniotrento
-github_url: 
+github_url:
 gitlab_url:
 googleplus_url: https://plus.google.com/u/0/b/114870349902392641766/105909498949786982602
 instagram_url: https://instagram.com/lantoniotrento

@@ -26,3 +26,22 @@ twitter_url: https://twitter.com/lantoniotrento
 
 # Build settings
 markdown: kramdown
+
+
+# data for jekyll-seo-tags plugins
+social:
+  name: lantoniotrento
+  links:
+    - https://twitter.com/lantoniotrento
+    - https://www.facebook.com/lantoniotrento
+    - https://www.linkedin.com/in/antoniotrento
+    - https://plus.google.com/u/0/b/114870349902392641766/105909498949786982602
+    - https://github.com/jorigamy/jorigamy.github.io
+    - https://keybase.io/antoniotrento
+twitter:
+  username: lantoniotrento
+
+facebook:
+ app_id: 509727322725898 #the app id from https://developers.facebook.com/
+ admins: 1010094929028825 #the page ID from https://www.facebook.com/pg/lantoniotrento (page-link), left click about scroll down and find 'Page ID'
+ publisher: 1010094929028825 #the page ID from https://www.facebook.com/pg/lantoniotrento (page-link), left click about scroll down and find 'Page ID'

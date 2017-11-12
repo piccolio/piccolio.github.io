@@ -1,0 +1,25 @@
+# Site settings
+title: Lens
+description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://piccolio.github.io" # the base hostname & protocol for your site
+author:
+
+# Collection settings
+collections:
+  photos:
+
+# Social settings
+500px_url:
+facebook_url: https://facebook.com/lantoniotrento
+github_url: https://github.com/antoniotrento
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/antoniotrento
+pinterest_url: https://pinterest.com/antoniotrento
+slack_url: https://antonio-trento.slack.com
+twitter_url: https://twitter.com/lantoniotrento
+
+# Build settings
+markdown: kramdown

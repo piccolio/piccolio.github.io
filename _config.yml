@@ -1,6 +1,6 @@
 # Site settings
-title: Antonio Trento
-description: A photo album about <a href="https://lantoniotrento.github.io">Antonio</a>
+title: Antonio's picture
+description: A photo album about <a href="https://lantoniotrento.github.io">Antonio Trento</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://piccolio.github.io" # the base hostname & protocol for your site
 author:
@@ -18,7 +18,7 @@ googleplus_url: https://plus.google.com/u/0/b/114870349902392641766/105909498949
 instagram_url: https://instagram.com/lantoniotrento
 linkedin_url:
 pinterest_url: https://pinterest.com/antoniotrento
-slack_url: 
+slack_url:
 twitter_url: https://twitter.com/lantoniotrento
 
 # Build settings

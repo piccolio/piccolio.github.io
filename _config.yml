@@ -1,6 +1,6 @@
 # Site settings
-title: Lens
-description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
+title: Antonio Trento photos
+description: A photo album about <a href="https://lantoniotrento.github.io">Antonio</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://piccolio.github.io" # the base hostname & protocol for your site
 author:
@@ -14,8 +14,8 @@ collections:
 facebook_url: https://facebook.com/lantoniotrento
 github_url: https://github.com/antoniotrento
 gitlab_url:
-googleplus_url:
-instagram_url:
+googleplus_url: https://plus.google.com/u/0/b/114870349902392641766/105909498949786982602
+instagram_url: https://instagram.com/lantoniotrento
 linkedin_url: https://www.linkedin.com/in/antoniotrento
 pinterest_url: https://pinterest.com/antoniotrento
 slack_url: https://antonio-trento.slack.com

@@ -1240,3 +1240,11 @@
 				}
 
 		}
+
+
+::selection {
+  background: #00D3B7; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #00D3B7; /* Gecko Browsers */
+}

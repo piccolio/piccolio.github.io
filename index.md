@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Antonio Trento
-image: assets/images/fulls/my-face.jpg
+image: assets/images/fulls/my-face.jpg	
 ---
 
 <!-- Thumbnail -->

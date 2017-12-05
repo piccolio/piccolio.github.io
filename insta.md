@@ -3,14 +3,14 @@ layout: home
 title: Antonio Trento
 image: assets/images/fulls/my-face.jpg
 ---
-	{% instagram accesstokenpath:/access-token.txt %}
-		<div>
-			<h3>{{ item.caption.text }}</h3>
-			<img src="{{ item.images.standard_resolution.url }}" />
-		</div>
-	{% endinstagram %}
-
-
+<script type="text/javascript">
+    var feed = new Instafeed({
+        get: 'tagged',
+        tagName: 'officialtrento',
+        clientId: '1093675496.1677ed0.865e98386e4245d4919c25426e03e821'
+    });
+    feed.run();
+</script>
 <!-- Thumbnail -->
 <section id="thumbnails">{% for photo in site.photos %}
 	<article>

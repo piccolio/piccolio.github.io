@@ -1,6 +1,6 @@
 # Site settings
 title: Antonio's picture
-description: A photo album about <a href="https://lantoniotrento.github.io">Antonio Trento</a>
+description: A photo album about <a href="https://antoniotrento.net">Antonio Trento</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://piccolio.github.io" # the base hostname & protocol for your site
 author:
